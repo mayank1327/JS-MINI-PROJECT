@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.score {
+   
+    margin-left: 400px;
+    padding-bottom: 20px;
+    height: 50px;
+    width : 500px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: black;
+}
+
+.btn {
+    height : 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 8px solid black;
+    margin: 2rem;
+}
+.btn-container {
+    display :flex;
+    justify-content: center;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.flash {
+    background-color: white;
+}
