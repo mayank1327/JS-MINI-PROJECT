@@ -1,0 +1,3 @@
+# JS-MINI-PROJECT.....
+
+This is a basic game based on javascript... (simon say)
